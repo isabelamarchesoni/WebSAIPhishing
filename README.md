@@ -36,6 +36,3 @@ API REST responsável pelo processamento e persistência das informações.
     <td align="center"><img src="screenshots/telaprincipal.png" width="600"/></td>
   </tr>
 </table>
----
-
-## 🗂️ Estrutura do Projeto
