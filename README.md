@@ -33,6 +33,6 @@ API REST responsável pelo processamento e persistência das informações.
     <th align="center">Interface da Aplicação</th>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/telaprincipal.png" width="600"/></td>
+    <td align="center"><img src="telaprincipal.png" width="700"/></td>
   </tr>
 </table>
